@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="craps-model">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/craps-model.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
