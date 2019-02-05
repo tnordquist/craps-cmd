@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Class-Path: commons-rng-simple-1.2.jar commons-rng-core-1.2.jar common
+ s-rng-client-api-1.2.jar craps-model.jar
+Main-Class: edu.cnm.deepdive.craps.controller.Craps
+

@@ -1,0 +1,12 @@
+<component name="ArtifactManager">
+  <artifact build-on-make="true" name="craps-cmd:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/craps_cmd_jar</output-path>
+    <root id="root">
+      <element id="archive" name="craps-cmd.jar">
+        <element id="module-output" name="craps-cmd" />
+      </element>
+      <element id="library" level="project" name="org.apache.commons:commons-rng-simple:1.2" />
+      <element id="library" level="project" name="craps-model" />
+    </root>
+  </artifact>
+</component>
